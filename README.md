@@ -2,7 +2,7 @@
 
 ![logo mars-code](./logo.png)
 
-Repositorio para resolver los desafios de [mars.codes](mars.codes) de Midudev
+Repositorio para resolver los desafios de [mars.codes](https://mars.codes/) de Midudev
 
 | Nombre                      | Archivo                                                            |
 | --------------------------- | ------------------------------------------------------------------ |
